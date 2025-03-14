@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @piasharma2004
-- 👀 I’m interested in learning front-end technologies!
 - 😄 Pronouns: she/her
 
 <!---
