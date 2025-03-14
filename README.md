@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piasharma2004
-- 👀 I’m interested in learning front-end development and am eager to start learning HTML and CSS. 
+- 👀 I’m interested in learning front-end technologies!
 - 😄 Pronouns: she/her
 
 <!---
